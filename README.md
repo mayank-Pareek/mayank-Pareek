@@ -8,8 +8,8 @@ You can click the Preview link to take a look at your changes.
 
 🚀 Some of the technologies I'm familiar with include:
 - 💻 Languages: HTML, CSS, JavaScript, C++, Python
-- 🚀 Frameworks: React, Node.js, Express.js
-- 🗃️ Databases: MySQL, MongoDB
+- 🚀 Frameworks: React, Next.js, Node.js, Express.js
+- 🗃️ Databases: PostgresSQL, MongoDB, Oracle
 - 🚩 Version Control: Git, GitHub
 
 💻 I'm always eager to work on exciting projects, especially those that involve C++ and web development. If you have an idea for a project, feel free to contact me and let's collaborate!
